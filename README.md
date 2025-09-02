@@ -4,8 +4,8 @@ Unreal Engine으로 제작한 3인칭 슈팅 게임 프로젝트입니다.
 
 
 ## 시연 영상
-[![Youtube Video](https://img.youtube.com/vi/영상ID/0.jpg)](https://www.youtube.com/watch?v=영상ID)  
-→ 이미지를 클릭하면 유튜브 영상으로 이동합니다.
+(https://youtu.be/at0VYwMMN1A)
+
 
 ##  프로젝트 소개
 - 제작 기간: 2024-11-08 00시00분 ~ 2024-12-01 23시59분
